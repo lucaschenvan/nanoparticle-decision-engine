@@ -1,5 +1,7 @@
 # Nanoparticle Design Decision Engine
 
+🔗 **Live app:** https://nanoparticle-decision-engine-8ic2umyhyojwf4utanlmuv.streamlit.app/
+
 An interactive Streamlit app that recommends nanoparticle drug-delivery designs
 based on treatment goals and tumor conditions.
 
